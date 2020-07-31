@@ -9,6 +9,10 @@ verify_ssl = true
 ipykernel = "*"
 pandas = "*"
 numpy = "*"
+xarray = "*"
+pyarrow = "*"
+lxml = "*"
+kernelspecs = "*"
 
 [requires]
 python_version = "3.8"
